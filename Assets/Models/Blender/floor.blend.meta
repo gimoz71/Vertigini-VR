@@ -37,6 +37,7 @@ ModelImporter:
     100058: Loewe_Indi
     100060: Stereospea
     100062: Plane
+    100064: Plane_001
     400000: Cube
     400002: Cube_001
     400004: Cube_002
@@ -69,6 +70,7 @@ ModelImporter:
     400058: Loewe_Indi
     400060: Stereospea
     400062: Plane
+    400064: Plane_001
     2300000: Cube
     2300002: Cube_001
     2300004: Cube_002
@@ -99,6 +101,7 @@ ModelImporter:
     2300054: Loewe_Indi
     2300056: Stereospea
     2300058: Plane
+    2300060: Plane_001
     3300000: Cube
     3300002: Cube_001
     3300004: Cube_002
@@ -129,6 +132,7 @@ ModelImporter:
     3300054: Loewe_Indi
     3300056: Stereospea
     3300058: Plane
+    3300060: Plane_001
     4300000: Cube_001
     4300002: Cube_002
     4300004: Cube
@@ -158,6 +162,7 @@ ModelImporter:
     4300052: Stereospea
     4300054: Loewe_Indi
     4300056: Plane
+    4300058: Plane_001
     7400000: Default Take
     9500000: //RootNode
   materials:
